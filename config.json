@@ -1,0 +1,20 @@
+{
+  "socials": [
+    {
+      "platform": "instagram",
+      "value": "your_username"
+    },
+    {
+      "platform": "whatsapp",
+      "value": "+212710101013"
+    },
+    {
+      "platform": "tiktok",
+      "value": "your_username"
+    },
+    {
+      "platform": "snapchat",
+      "value": "your_username"
+    }
+  ]
+}
