@@ -8,15 +8,5 @@
     "oldPrice": null,
     "price": 33,
     "description": "fdd"
-  },
-  {
-    "id": 1,
-    "name": "Gucci baseBall casquette",
-    "type": "hats",
-    "mainImage": "https://raw.githubusercontent.com/mbark-aboudrar/atlaseyeswear-config/main/images/products/glasses/gucci-baseball-casquette-1787014339516-1.webp",
-    "images": [],
-    "oldPrice": 249,
-    "price": 149,
-    "description": "Une casquette élégante inspirée de l’esthétique emblématique de Gucci. Avec sa visière courbée, ses finitions raffinées et sa coupe confortable, elle apporte une touche sophistiquée à vos tenues décontractées et quotidiennes. Son design intemporel se porte facilement avec différents styles."
   }
 ]
