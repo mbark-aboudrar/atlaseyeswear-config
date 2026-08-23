@@ -1,5 +1,15 @@
 [
   {
+    "id": 2,
+    "name": "smiya dyal ndadr",
+    "type": "glasses",
+    "mainImage": "https://raw.githubusercontent.com/mbark-aboudrar/atlaseyeswear-config/main/images/products/glasses/smiya-dyal-ndadr-1787471588520-1.webp",
+    "images": [],
+    "oldPrice": null,
+    "price": 199,
+    "description": "ndadr wa3ren !"
+  },
+  {
     "id": 1,
     "name": "smiya",
     "type": "hats",
