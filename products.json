@@ -10,19 +10,6 @@
     "description": "fdd"
   },
   {
-    "id": 2,
-    "name": "Gucci rose casquette",
-    "type": "hats",
-    "mainImage": "https://raw.githubusercontent.com/mbark-aboudrar/atlaseyeswear-config/main/images/products/hats/gucci-rose-casquette-1787016668932-1.webp",
-    "images": [
-      "https://raw.githubusercontent.com/mbark-aboudrar/atlaseyeswear-config/main/images/products/hats/gucci-rose-casquette-1787016670994-2.webp",
-      "https://raw.githubusercontent.com/mbark-aboudrar/atlaseyeswear-config/main/images/products/hats/gucci-rose-casquette-1787016672261-3.webp"
-    ],
-    "oldPrice": 249,
-    "price": 199,
-    "description": "Une casquette rose élégante au design moderne, parfaite pour ajouter une touche douce et tendance à vos tenues quotidiennes."
-  },
-  {
     "id": 1,
     "name": "Gucci baseBall casquette",
     "type": "hats",
