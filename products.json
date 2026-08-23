@@ -10,18 +10,6 @@
     "description": "fdd"
   },
   {
-    "id": 3,
-    "name": "Siri brazil sunglasses",
-    "type": "glasses",
-    "mainImage": "https://raw.githubusercontent.com/mbark-aboudrar/atlaseyeswear-config/main/images/products/glasses/siri-brazil-sunglasses-1787015319372-1.webp",
-    "images": [
-      "https://raw.githubusercontent.com/mbark-aboudrar/atlaseyeswear-config/main/images/products/glasses/siri-brazil-sunglasses-1787015321312-2.webp"
-    ],
-    "oldPrice": 149,
-    "price": 99,
-    "description": "Des lunettes de soleil Siri Brazil au style moderne et élégant, idéales pour apporter une touche tendance à votre look au quotidien."
-  },
-  {
     "id": 2,
     "name": "Gucci rose casquette",
     "type": "hats",
