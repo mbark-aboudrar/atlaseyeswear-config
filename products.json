@@ -3,7 +3,7 @@
     "id": 4,
     "name": "ffdfdsfdfd",
     "type": "glasses",
-    "mainImage": "images/products/glasses/ffdfdsfdfd-1787467702524-1.webp",
+    "mainImage": "https://raw.githubusercontent.com/mbark-aboudrar/atlaseyeswear-config/main/images/products/glasses/ffdfdsfdfd-1787467917956-1.webp",
     "images": [],
     "oldPrice": null,
     "price": 33,
@@ -13,9 +13,9 @@
     "id": 3,
     "name": "Siri brazil sunglasses",
     "type": "glasses",
-    "mainImage": "images/products/glasses/siri-brazil-sunglasses-1787015319372-1.webp",
+    "mainImage": "https://raw.githubusercontent.com/mbark-aboudrar/atlaseyeswear-config/main/images/products/glasses/siri-brazil-sunglasses-1787015319372-1.webp",
     "images": [
-      "images/products/glasses/siri-brazil-sunglasses-1787015321312-2.webp"
+      "https://raw.githubusercontent.com/mbark-aboudrar/atlaseyeswear-config/main/images/products/glasses/siri-brazil-sunglasses-1787015321312-2.webp"
     ],
     "oldPrice": 149,
     "price": 99,
@@ -25,10 +25,10 @@
     "id": 2,
     "name": "Gucci rose casquette",
     "type": "hats",
-    "mainImage": "images/products/hats/gucci-rose-casquette-1787016668932-1.webp",
+    "mainImage": "https://raw.githubusercontent.com/mbark-aboudrar/atlaseyeswear-config/main/images/products/hats/gucci-rose-casquette-1787016668932-1.webp",
     "images": [
-      "images/products/hats/gucci-rose-casquette-1787016670994-2.webp",
-      "images/products/hats/gucci-rose-casquette-1787016672261-3.webp"
+      "https://raw.githubusercontent.com/mbark-aboudrar/atlaseyeswear-config/main/images/products/hats/gucci-rose-casquette-1787016670994-2.webp",
+      "https://raw.githubusercontent.com/mbark-aboudrar/atlaseyeswear-config/main/images/products/hats/gucci-rose-casquette-1787016672261-3.webp"
     ],
     "oldPrice": 249,
     "price": 199,
@@ -38,7 +38,7 @@
     "id": 1,
     "name": "Gucci baseBall casquette",
     "type": "hats",
-    "mainImage": "images/products/glasses/gucci-baseball-casquette-1787014339516-1.webp",
+    "mainImage": "https://raw.githubusercontent.com/mbark-aboudrar/atlaseyeswear-config/main/images/products/glasses/gucci-baseball-casquette-1787014339516-1.webp",
     "images": [],
     "oldPrice": 249,
     "price": 149,
