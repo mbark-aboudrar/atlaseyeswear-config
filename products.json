@@ -11,12 +11,12 @@
   },
   {
     "id": 1,
-    "name": "smiya",
+    "name": "Brown Gucci cap",
     "type": "hats",
     "mainImage": "https://raw.githubusercontent.com/mbark-aboudrar/atlaseyeswear-config/main/images/products/hats/smiya-1787471394254-1.webp",
     "images": [],
     "oldPrice": 999,
     "price": 149,
-    "description": "this is a casqutta"
+    "description": "Description ici"
   }
 ]
