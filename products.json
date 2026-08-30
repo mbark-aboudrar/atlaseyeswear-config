@@ -1,12 +1,12 @@
 [
   {
     "id": 2,
-    "name": "Siri Brazil lunettes",
+    "name": "Lunnette de Brazil",
     "type": "glasses",
     "mainImage": "https://raw.githubusercontent.com/mbark-aboudrar/atlaseyeswear-config/main/images/products/glasses/smiya-dyal-ndadr-1787471588520-1.webp",
     "images": [],
-    "oldPrice": null,
-    "price": 199,
+    "oldPrice": 199,
+    "price": 149,
     "description": "Description d'lunettes ici"
   },
   {
